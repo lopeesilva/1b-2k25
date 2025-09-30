@@ -1,7 +1,13 @@
 :root{
  --azul: #219edcff;
- -- 
- 
+ --roxo: blueviolet;
+ --cinza: darkgrey;
+--preto: black;
+
+}
+body{ 
+    background-color: var(--azul);
+    font-family: var(--texto);
 
 
 }
